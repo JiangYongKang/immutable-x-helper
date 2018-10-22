@@ -11,7 +11,7 @@ import java.util.List;
  */
 
 @Data
-public class Address {
+public class AddressData {
     private List<String> city;
-    private List<String> country;
+    private List<String> province;
 }
