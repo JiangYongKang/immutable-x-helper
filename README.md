@@ -8,10 +8,6 @@ Faker 可以非常方便的生成测试数据，但 Faker 并不能保证多次�
 
 ### 快速开始
 
-```xml
-
-```
-
 ```java
 ColorFaker.name() // => "orange"
 CatFaker.name() // => "Coco"
