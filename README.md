@@ -1,5 +1,7 @@
 # Immutable X Helper
 
+**Immutable X** 是一个 **Layer2** 网络。主要的优势是交易无 **Ga**s 并且可以**立即确认交易**。**Immutable X** 是用中心化的接口实现的，没办法在 **Layer2** 的层上去调用合约中的方法。只能调用 **IMX** 提供的一些中心化接口。
+
 ### Deploy Contract
 ```
 $ yarn ropsten:deploy
